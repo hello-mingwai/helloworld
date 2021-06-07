@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
 
-print('Hello World')
+
+for i in range(10):
+    print(f'Hello World {i}')
